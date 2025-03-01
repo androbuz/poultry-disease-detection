@@ -11,4 +11,4 @@ license: apache-2.0
 short_description: 'Deployment of a machine learning model to detect disease '
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the working demo at https://huggingface.co/spaces/Andro777/disease_detection
