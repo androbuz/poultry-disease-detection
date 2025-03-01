@@ -6,3 +6,4 @@ soundfile
 joblib
 keras
 tensorflow
+pandas
