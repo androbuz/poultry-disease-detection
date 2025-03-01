@@ -112,3 +112,4 @@ iface = gr.Interface(
 )
 
 iface.launch()
+#this technology is a step towards smart farming
